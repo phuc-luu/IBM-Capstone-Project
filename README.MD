@@ -8,8 +8,11 @@ My personal project for IBM Capstone Project course in the IBM Data Analyst Prof
 
 This repo showcase my skills, documenting my works as a start level Data Analyst and my findings for this project.
 
-[Dashboard](./Stack_Overflow_Developer_Survey_Analysis.pdf)
+[Dashboard](https://datastudio.google.com/reporting/39b0a36c-e439-4149-9690-8613798ff677)
 [Slide](./Presentation.pdf)
+
+## Method
+I performed Exploratory Data Analysis (EDA) and data wrangling in the `cleaning.py` file. According to the IBM course guidelines, columns intended for visualization need to be processed using `pd.explode()`. However, exploding all columns at once would expand the dataset excessively. To address this, I wrote a program that generates separate CSV files, each corresponding to a specific table required for a particular visualization, stored in the `data` folder.
 
 ---
 ### Brief findings
