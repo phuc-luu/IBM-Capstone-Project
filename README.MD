@@ -8,8 +8,10 @@ My personal project for IBM Capstone Project course in the IBM Data Analyst Prof
 
 This repo showcase my skills, documenting my works as a start level Data Analyst and my findings for this project.
 
+[Dashboard](./Stack_Overflow_Developer_Survey_Analysis.pdf)
+[Slide](./Presentation.pdf)
 
-
+---
 ### Brief findings
 
 - Tech Stack Continuity: High alignment between production tools and desired technologies indicates strong ecosystem stability across:
